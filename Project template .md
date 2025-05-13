@@ -1,6 +1,6 @@
 # PyData Capstone Project Proposal Template
 Project Title
-Analyzing Early Marriages in Northern Kenya: A Gender-Based Violence Perspective
+# Analyzing Early Marriages in Northern Kenya: A Gender-Based Violence Perspective
 
 ## Project Summary
 This project focuses on early marriages as a form of gender-based violence in Northern Kenya. The dataset includes demographic, socio-economic, and regional data related to girls and young women affected by early marriage. It seeks to uncover patterns, causes, and consequences of early marriages in counties such as Mandera, Wajir, Garissa, Marsabit, and Turkana. By using data analysis and visualization tools, the project aims to deliver actionable insights to policymakers, NGOs, and advocacy groups working to reduce GBV in the region.
