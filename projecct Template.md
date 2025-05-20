@@ -96,11 +96,15 @@ Visualize correlations with seaborn.heatmap() or Tableau charts
 Example:
 
 python
+
 import pandas as pd
+
 import seaborn as sns
 # Merge datasets and compute correlations
 merged_data = ed1.groupby('Countries').mean()
+
 correlation_matrix = merged_data.corr()
+
 sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm')
 
 User Interface:
